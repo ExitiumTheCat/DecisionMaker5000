@@ -1,0 +1,11 @@
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\bin\Debug\netcoreapp3.1\DecisionMaker5000.exe
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\bin\Debug\netcoreapp3.1\DecisionMaker5000.deps.json
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\bin\Debug\netcoreapp3.1\DecisionMaker5000.runtimeconfig.json
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\bin\Debug\netcoreapp3.1\DecisionMaker5000.runtimeconfig.dev.json
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\bin\Debug\netcoreapp3.1\DecisionMaker5000.dll
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\bin\Debug\netcoreapp3.1\DecisionMaker5000.pdb
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\obj\Debug\netcoreapp3.1\DecisionMaker5000.csprojAssemblyReference.cache
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\obj\Debug\netcoreapp3.1\DecisionMaker5000.AssemblyInfoInputs.cache
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\obj\Debug\netcoreapp3.1\DecisionMaker5000.AssemblyInfo.cs
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\obj\Debug\netcoreapp3.1\DecisionMaker5000.dll
+C:\Users\Luan Paul\Desktop\DecisionMaker5000\obj\Debug\netcoreapp3.1\DecisionMaker5000.pdb
